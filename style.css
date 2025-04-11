@@ -121,7 +121,7 @@ section {
 }
 
 footer {
-    background: linear-gradient(to bottom, var(--cor-primaria), #2980b9);
+    background: linear-gradient(to bottom, var(--cor-primaria), #6B8E23);
     color: white;
     text-align: center;
     padding: 20px 0;
