@@ -23,8 +23,7 @@ header {
 }
 .logo {
     width: 100px; /* Defina a largura desejada para o logotipo */
-    height: 1%; /* Isso garante que a proporção da imagem seja mantida */
-    display: block; /* Isso remove qualquer espaço extra ao redor da imagem */
+    height: 80%; /* Isso garante que a proporção da imagem seja mantida */
     float: left; /* Isso alinha a imagem à esquerda */
     margin-right: 20px; /* Adiciona um espaçamento à direita da imagem */
 }
